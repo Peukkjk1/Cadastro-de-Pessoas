@@ -1,4 +1,4 @@
-package dev.JPedro.Cadastro;
+package dev.JPedro.Cadastro.Ninjas;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
